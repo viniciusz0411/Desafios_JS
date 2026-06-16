@@ -10,4 +10,4 @@ for (const numero of notas) {
   soma += numero;
 }
 console.log(`As notas da turma são: ${notas}.
-A média é ${soma/notas.length}`)
+A média é ${soma/notas.length}`) 
